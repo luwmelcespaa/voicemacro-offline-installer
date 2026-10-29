@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Automation-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Voice+Control-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 VoiceMacro Free Installer** — VoiceMacro is a Windows voice recognition and macro automation application that lets you control your computer using spoken commands. Works without internet access, no account required. Full offline installation.
+**💻 VoiceMacro Free Installer** — VoiceMacro is a Windows voice recognition and macro automation tool that lets you control your computer and trigger actions using custom voice commands. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About VoiceMacro
 
-VoiceMacro is a Windows voice recognition and macro automation application that lets you control your computer using spoken commands. Create custom voice commands to launch applications, type text, click buttons, or execute complex macros. Popular among gamers for hands-free game control and accessibility users who need alternative input methods, VoiceMacro brings voice control to any Windows application.
+VoiceMacro is a Windows voice recognition and macro automation tool that lets you control your computer and trigger actions using custom voice commands. It integrates with games, applications, and the desktop for hands-free control.
 
 ---
 
 ## ❌ Problem: VoiceMacro is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Microphone Quality** — Recognition accuracy depends heavily on microphone quality
-- **Command Training** — Voice commands need tuning for optimal recognition in various environments
-- **Background Noise** — Noisy environments can trigger false command recognition
+- **Windows Only** — No macOS or Linux version available
+- **Paid License** — Requires subscription for full features
+- **Microphone Quality Sensitive** — Recognition accuracy depends heavily on microphone and environment
+- **Always Listening** — Continuous microphone monitoring raises privacy concerns
 
 ---
 
@@ -121,7 +121,7 @@ VoiceMacro is a Windows voice recognition and macro automation application that 
 
 ---
 
-**VoiceMacro Free Installer** — VoiceMacro is a Windows voice recognition and macro automation application that lets you control your computer using spoken commands. Install without internet connection today!
+**VoiceMacro Free Installer** — VoiceMacro is a Windows voice recognition and macro automation tool that lets you control your computer and trigger actions using custom voice commands. Install without internet connection today!
 
 <div align="center">
 
